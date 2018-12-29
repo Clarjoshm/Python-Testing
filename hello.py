@@ -3,4 +3,5 @@ while counter < 10:
     print(counter)
     counter += 1
 
+x = "testtring"
 input("")
